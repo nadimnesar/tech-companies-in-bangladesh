@@ -830,7 +830,7 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Square Health Ltd.
 |House 18, Road 13, Uttara (Sector 7) Dhaka 1230, Bangladesh
 |Java, Angular, React, Android
-https://career.squarehealth.com.bd/[Website]
+|https://career.squarehealth.com.bd/[Website]
 
 |Systems Solutions & Development Technologies Ltd. (SSD-TECH)
 |Uday Tower, Level 12, 57 & 57/A, Gulshan Avenue, Dhaka-1212, Bangladesh
